@@ -1,0 +1,7 @@
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\bin\Debug\NUmberCount.exe.config
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\bin\Debug\NUmberCount.exe
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\bin\Debug\NUmberCount.pdb
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\obj\Debug\NUmberCount.csprojAssemblyReference.cache
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\obj\Debug\NUmberCount.csproj.CoreCompileInputs.cache
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\obj\Debug\NUmberCount.exe
+C:\Users\Raihan\source\repos\NUmberCount\NUmberCount\obj\Debug\NUmberCount.pdb
